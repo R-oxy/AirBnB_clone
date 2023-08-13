@@ -109,13 +109,13 @@ $ ./console.py
 <details>
     <summary>Aron Mang'ati</summary>
     <ul>
-    <li><a href="mailto:aronmangati@gmail.com">e-mail</a></li>
+        <li><a href="mailto:aronmangati@gmail.com">aronmangati@gmail.com</a></li>
     </ul>
 </details>
 <details>
     <summary>Benalla Aiman</summary>
     <ul>
-    <li><a href="mailto:benallaaiman@gmail.com">e-mail</a></li>
+        <li><a href="mailto:benallaaiman@gmail.com">benallaaiman@gmail.com</a></li>
     </ul>
 </details>
 
