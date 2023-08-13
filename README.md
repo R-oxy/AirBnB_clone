@@ -104,18 +104,23 @@ $ ./console.py
 ```bash
 (hbnb) destroy User 670265eb-5982-489e-8b92-2dff054f0776
 (hbnb)
+```
 
 ## Authors
 <details>
-    <summary>Aron Mang'ati</summary>
+    <summary>Ayomide Suara</summary>
     <ul>
-        <li><a href="mailto:aronmangati@gmail.com">aronmangati@gmail.com</a></li>
+    <li><a href="https://www.github.com/aysuarex">Github</a></li>
+    <li><a href="https://www.twitter.com/Aysuarex">Twitter</a></li>
+    <li><a href="mailto:aysuarex@gmail.com">e-mail</a></li>
     </ul>
 </details>
 <details>
-    <summary>Benalla Aiman</summary>
+    <summary>Bamidele Adefolaju</summary>
     <ul>
-        <li><a href="mailto:benallaaiman@gmail.com">benallaaiman@gmail.com</a></li>
+    <li><a href="https://www.github.com/lexxyla">Github</a></li>
+    <li><a href="https://www.twitter.com/lexxyla">Twitter</a></li>
+    <li><a href="mailto:bamideleadefolaju@gmail.com">e-mail</a></li>
     </ul>
 </details>
 
