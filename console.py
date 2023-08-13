@@ -1,7 +1,6 @@
 #!/usr/bin/python3
 """ Entry point of the command interpreter """
 import cmd
-import models
 from models.base_model import BaseModel
 from models.user import User
 from models.state import State
