@@ -1,17 +1,18 @@
 #!/usr/bin/python3
-""" Defines a class User """
+"""Defines the User class."""
 from models.base_model import BaseModel
 
 
 class User(BaseModel):
+    """Represent a User.
+
+    Attributes:
+        email (str): The email of the user.
+        password (str): The password of the user.
+        first_name (str): The first name of the user.
+        last_name (str): The last name of the user.
     """
-    User class that inherits from BaseModel.
-    Public class attributes:
-        email: string - The User email
-        password: string - The User password
-        first_name: string - The first name of the User
-        last_name: string - The last name of the User
-    """
+
     email = ""
     password = ""
     first_name = ""
