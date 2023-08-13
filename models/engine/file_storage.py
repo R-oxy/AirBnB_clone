@@ -9,7 +9,7 @@ from models.city import City
 from models.amenity import Amenity
 from models.place import Place
 from models.review import Review
-
+from models.user import User
 
 
 class FileStorage:
@@ -63,6 +63,8 @@ class FileStorage:
                         instance = Place(**value)
                     elif module_name == "review":
                         instance = Review(**value)
+                    elif module_name == "user":
+                        instance = User(**value)
                     else:
                         continue
                     FileStorage.__objects[key] = instance
