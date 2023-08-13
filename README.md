@@ -41,7 +41,7 @@ Documented commands (type help <topic>):
 ========================================
 EOF  help  quit
 
-(hbnb) 
+(hbnb)
 ```
 
 But also in non-interactive mode:
@@ -53,7 +53,7 @@ $ echo "help" | ./console.py
 Documented commands (type help <topic>):
 ========================================
 EOF  help  quit
-(hbnb) 
+(hbnb)
 ```
 
 All tests should also pass in non-interactive mode:
@@ -68,7 +68,7 @@ $ echo "python3 -m unittest discover tests" | bash
 
 ```bash
 $ ./console.py
-(hbnb) 
+(hbnb)
 ```
 
 ### Creating a New Object
@@ -104,3 +104,18 @@ $ ./console.py
 ```bash
 (hbnb) destroy User 670265eb-5982-489e-8b92-2dff054f0776
 (hbnb)
+
+## Authors
+<details>
+    <summary>Aron Mang'ati</summary>
+    <ul>
+    <li><a href="mailto:aronmangati@gmail.com">e-mail</a></li>
+    </ul>
+</details>
+<details>
+    <summary>Benalla Aiman</summary>
+    <ul>
+    <li><a href="mailto:benallaaiman@gmail.com">e-mail</a></li>
+    </ul>
+</details>
+
